@@ -1,3 +1,2 @@
 # demo-repo
-Demo for learning
-Hi!
+Description kitty
